@@ -6,3 +6,7 @@ DevOps yra darbo būdas, kai programuotojai ir sistemų administratoriai dirba k
 
 1. Testai: jei jų nėra, klaida pirmą kartą pastebima tik pas vartotoją.
 2. Diegimas: diegiant ranka lengva praleisti žingsnį, todėl serveryje programa veikia kitaip nei kompiuteryje.
+
+## Kodėl DevOps
+
+DevOps leidžia komandai išleisti pakeitimus dažniau ir su mažesne rizika, nes pasikartojančius žingsnius atlieka automatika. Klaidos randamos anksti, o ne pas vartotoją.
